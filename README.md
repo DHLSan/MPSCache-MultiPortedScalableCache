@@ -51,7 +51,7 @@ Creating SoC Design with All Components:
   7. Add source --> Axi_smartconnect and Axi_interconnect
   8. Click Window --> Add ip catalog --> click right click on list --> select your the path of the multiport IP you exported --> click OK
   9. click right click on block design -->  ip catalog --> select ip files which you created with HLS
-  10. Make neccessary connections as seen in Vivado/Multipor_memory/design1.pdf, make sure the connections are exactly the same with design1.pdf
+  10. Make neccessary connections as seen in VIVADO/Multi_port_memory/design1.pdf, make sure the connections are exactly the same with design1.pdf
   11. Click Generate Bitstream
   12. Right click on design file and click Create HDL Wrapper.
   13. Right click on design and click Generate Output Products.
@@ -59,6 +59,6 @@ Creating SoC Design with All Components:
 When generate bitstream finished, export hardware (include bitstream should be marked) and launch SDK.
 
   1.Create new Hello World application project in SDK.
-  2. Replace the contents of the Hello world project with SDK/Multipor_memory/main.c
+  2. Replace the contents of the Hello world project with SDK/Multi_port_memory/main.c
   3. Ready to run.
 
