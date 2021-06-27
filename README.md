@@ -56,6 +56,7 @@ Creating SoC Design with All Components:
   12. Right click on design file and click Create HDL Wrapper.
   13. Right click on design and click Generate Output Products.
   14. Click on Generate Bitstream.
+
 When generate bitstream finished, export hardware (include bitstream should be marked) and launch SDK.
 
   1.Create new Hello World application project in SDK.
