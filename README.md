@@ -35,6 +35,8 @@ https://youtu.be/ASoMwttuucU
 - [Github](https://github.com/tomverbeure/multi_port_mem/tree/e9d456f019913c94d2aa2839e199fed50840d09b)
 
 ## **_Step-by-step Building and Testing Instructions_** ##
+
+--Running the multiport memory  design
 Creating IP with HLS:
   1. Open Vivado HLS 2017.4
   2. Create New Project
@@ -62,4 +64,5 @@ When generate bitstream finished, export hardware (include bitstream should be m
   1.Create new Hello World application project in SDK.
   2. Replace the contents of the Hello world project with SDK/Multi_port_memory/main.c
   3. Ready to run.
+  
 
