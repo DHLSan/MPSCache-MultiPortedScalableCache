@@ -25,12 +25,12 @@ While approaching the end of Moore's Law regarding physical limits in silicon te
 Project phases and more detail about project is shared in this repository as MPSCache_report_xohw21-248.pdf
 ## **Inline Cache source code link we used throughout the project** ## 
 
-- Inline cache proposed by Ma et al, and you can find at 
+-Inline cache proposed by Ma et al, and you can find at 
 -[Github]()
 
-## **The resource used for the multi-ported memory designed in the project** ##
-- [Github](https://github.com/tomverbeure/multi_port_mem/tree/e9d456f019913c94d2aa2839e199fed50840d09b)
+## **_The resource used for the multi-ported memory designed in the project_** ##
+-[Github](https://github.com/tomverbeure/multi_port_mem/tree/e9d456f019913c94d2aa2839e199fed50840d09b)
 
-## **Step-by-step Building and Testing Instructions** ##
+## **_Step-by-step Building and Testing Instructions_** ##
 
 
