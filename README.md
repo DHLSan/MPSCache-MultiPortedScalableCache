@@ -40,7 +40,7 @@ https://youtu.be/ASoMwttuucU
 Creating IP with HLS:
   1. Open Vivado HLS 2017.4
   2. Create New Project
-  3. Name of the top function should be "multiport" for seaching neural network IP.
+  3. Name of the top function should be "multiport" for xor-based multi-port memory.
   4. Click C synthesis.
   5. When synthesis is finished, click Export RTL.
 Creating SoC Design with All Components:
