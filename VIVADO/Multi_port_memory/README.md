@@ -1,8 +1,8 @@
 # **_Multi-ported scalable memory design and implementation in VIVADO_** #
 
-## **_Running the multiport memory SoC designwith VIVADO:_** ##
+## **_Running the multiport memory SoC design with VIVADO:_** ##
 
-The following detailed steps are required to build and test our project with VIVADO. 
+The following detailed steps are required to build our project with VIVADO. 
 
 Creating SoC Design with All Components:
   1. Open Vivado 2017.4
