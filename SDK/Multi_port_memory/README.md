@@ -1,6 +1,6 @@
 # **_Multi-ported scalable memory test in SDK_** #
 
-## **_Running the multiport memory SoC design with SDK:_** ##
+## **Import the multiport memory SoC design, and test with SDK:_** ##
 
 The following detailed steps are required to implement our project with SDK. 
 
