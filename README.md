@@ -35,7 +35,7 @@ https://youtu.be/ASoMwttuucU
 - Inline cache proposed by Ma et al, and you can find at 
 - [Github]()
 
-## **_Multi-Ported Memory study has been examined to design multi-port system,  and its open source project files_** ##
+## **_Multi-Ported Memory study has been examined to design multi-port system,  and its open source Github repo_** ##
 - [Github](https://github.com/tomverbeure/multi_port_mem/tree/e9d456f019913c94d2aa2839e199fed50840d09b)
 
 
