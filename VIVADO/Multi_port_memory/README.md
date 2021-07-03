@@ -1,6 +1,6 @@
 # **_Multi-ported scalable memory design and implementation in VIVADO_** #
 
-## **_Running the multiport memory design Creating IP with VIVADO:_** ##
+## **_Running the multiport memory SoC designwith VIVADO:_** ##
 
 The following detailed steps are required to build and test our project with VIVADO. 
 
