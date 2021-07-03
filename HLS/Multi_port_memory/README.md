@@ -1,6 +1,6 @@
 # **_Multi-ported scalable memory design and implementation in HLS_** #
 
-![Flow Chart of Proposed System](/HLS/Images/Scheme.png?raw=true "Title")
+![Flow Chart of Proposed System](/HLS/Images/Scheme.png?raw=true "Flow Chart of Proposed System")
 ## **_Running the multiport memory design Creating IP with HLS:_** ##
 
 The following detailed steps are required to build and test our project with HLS. 
@@ -22,7 +22,7 @@ The XOR non-table-based write scheme design which works by XORing the components
   
   
 
-![Figure 1](/HLS/Images/XOR.png?raw=true "Title")
+![Figure 1](/HLS/Images/XOR.png?raw=true "Figure 1")
 
 
 
@@ -30,7 +30,7 @@ To implement the XOR-based design, a scalable customized multi-ported RAM IP blo
 
 
 
-![Figure 2](/HLS/Images/SelectionSort.png?raw=true "Title")
+![Figure 2](/HLS/Images/SelectionSort.png?raw=true "Figure 2")
 
 
 
