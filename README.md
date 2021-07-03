@@ -70,7 +70,7 @@ Creating SoC Design with All Components:
 
 When generate bitstream finished, export hardware (include bitstream should be marked) and launch SDK.
 
-  1.Create new Hello World application project in SDK.
+  1. Create new Hello World application project in SDK.
   2. Replace the contents of the Hello world project with SDK/Multi_port_memory/main.c
   3. Ready to run.
   
