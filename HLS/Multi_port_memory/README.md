@@ -16,7 +16,9 @@ The following detailed steps are required to build and test our project with HLS
  ## **_Theoretical Background of Design_** ##
  
  
-The XOR non-table-based write scheme design which works by XORing the components of a specific location to a particular bank of memory with the old contents of the same position from all other banks each time a read command is issued. The working principle is based on computing the XOR of values for that position across all banks that return the most recently written value. The design should have enough internal read ports to allow for writing. This necessitates a BRAM column one width less than the number of write ports. In addition, for each external read port, a BRAM column is required. Total BRAM number can be calculated with 
+The XOR non-table-based write scheme design which works by XORing the components of a specific location to a particular bank of memory with the old contents of the same position from all other banks each time a read command is issued. The working principle is based on computing the XOR of values for that position across all banks that return the most recently written value. The design should have enough internal read ports to allow for writing. This necessitates a BRAM column one width less than the number of write ports. In addition, for each external read port, a BRAM column is required. In the design, each write port has its own bank of two BRAMs, and writes for each are copied to both BRAMs corresponding locations in all of the BRAMs in a bank always have the same value.Similar to the LVT approach, the XOR approach internally uses banking and replication.
+
+ Total BRAM number can be calculated with 
 
   **_nr_block_rams = nr_write_ports * ((nr_write_ports-1) + nr_read_ports)_**
   
