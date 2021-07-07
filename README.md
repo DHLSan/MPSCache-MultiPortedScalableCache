@@ -77,5 +77,13 @@ When generate bitstream finished, export hardware (include bitstream should be m
   1. Create new Hello World application project in SDK.
   2. Replace the contents of the Hello world project with SDK/Multi_port_memory/main.c
   3. Ready to run.
-  
+ 
+## **_Experimental Results_** ##
 
+1) Inline Cache
+
+![](/HLS/Images/table_1.png)
+
+2) Multi-port Memeory
+
+![](/HLS/Images/table_2.png)
