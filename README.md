@@ -1,6 +1,6 @@
-# MPSCache Multi-Ported Scalable Cache #
+# MPSCache: Efficient Multi-ported Scalable Reconfigurable Cache Design #
 
-Multi-Ported Scalable Cache Design 
+ Efficient Multi-ported Scalable Reconfigurable Cache Design 
 
 Team Number: xohw21-248
 
