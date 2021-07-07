@@ -84,6 +84,6 @@ When generate bitstream finished, export hardware (include bitstream should be m
 
 ![](/HLS/Images/table_1.png)
 
-2) Multi-port Memeory
+2) Multi-port Memory
 
 ![](/HLS/Images/table_2.png)
